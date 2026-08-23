@@ -1,5 +1,4 @@
-Readme · MD
-JS Calculator
+JS Calculator using Web Development
 
 A simple calculator built using HTML, CSS, and JavaScript.
 
